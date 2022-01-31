@@ -3,21 +3,15 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-
 .row {
   --bs-gutter-x: 0rem;
 }
-
-.card{
+.card .card-title {
+	text-align: center;
 }
 .card .card-title {
 	text-align: center;
 }
-
-.card .card-title {
-	text-align: center;
-}
-
 .card__btn {
 	position: relative;
 	left: 50%;
@@ -37,6 +31,3 @@
 	border-radius: 0.25rem;
 }
 
-.card__btn:nth-child(3n) {
-	
-}
