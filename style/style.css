@@ -5,12 +5,10 @@
 }
 
 .row {
-	column-gap: 4px;
   --bs-gutter-x: 0rem;
 }
 
 .card{
-  /* width: 420px; */
 }
 .card .card-title {
 	text-align: center;
