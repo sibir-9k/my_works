@@ -68,9 +68,7 @@
 .card-body__btn:hover {
 	background-color: rgb(255, 225, 0);
 }
-/* .card-btn_text:hover{
-  color: #ffffff
-} */
+
 .card-btn_text {
 	text-decoration: none;
 	font-family: "Montserrat";
@@ -81,56 +79,3 @@
 	color: #000000;
 }
 
-.card__btn_react {
-}
-.btn-primary {
-}
-
-/*
-.grid-container{
- 
-}
-.card-body {
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-}
-.grid-cards{
-  display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	grid-column: 3 span;
-	gap: 15px;
-}
-
-
-.card .card-title {
-	text-align: center;
-}
-.card .card-title {
-	text-align: center;
-}
-.card__btn {
-	
-	margin: 0 auto;
-	display: inline-block;
-	cursor: pointer;
-	padding: 0.375rem 0.75rem;
-	font-size: 1rem;
-	border-radius: 0.25rem;
-}
-
-.card__btn_text {
-	color: #ffffff;
-	text-align: center;
-	text-decoration: none;
-	vertical-align: middle;
-	font-weight: 400;
-	line-height: 1.5;
-}
-.card__btn_text:hover {
-	color: rgb(253, 216, 7);
-}
-
-.card__btn_react {
-	margin-bottom: 20px;
-} */
